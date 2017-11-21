@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abdennour/react-csv.git"
+    "url": "git+https://github.com/ysu0/react-csv.git"
   },
   "keywords": [
     "csv",
@@ -38,9 +38,9 @@
   "author": "Abdennour TOUMI <http://abdennoor.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/abdennour/react-csv/issues"
+    "url": "https://github.com/ysu0/react-csv/issues"
   },
-  "homepage": "https://github.com/abdennour/react-csv#readme",
+  "homepage": "https://github.com/ysu0/react-csv#readme",
   "devDependencies": {
     "babel-cli": "^6.18.0",
     "babel-core": "^6.18.2",
